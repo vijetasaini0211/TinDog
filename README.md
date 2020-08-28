@@ -1,10 +1,10 @@
 # Tindog 
 
-###website using:
+### website using:
 
-####HTML
+#### HTML
 
-####CSS
+#### CSS
 
-####Bootstrap
+#### Bootstrap
 
