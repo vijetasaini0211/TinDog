@@ -1,4 +1,10 @@
 # Tindog 
 
-website using HTML,CSS,Bootstrap
+### website using:
+
+##### HTML
+
+##### CSS
+
+##### Bootstrap
 
